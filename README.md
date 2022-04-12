@@ -1,12 +1,10 @@
-<h1 align="left">Hi 👋, I'm Nihar</h1>
-<h3 align="left">A passionate DevOps Engineer and Backend Developer 🚀 having an experience of Deploying applications in Docker / Kubernetes and building Backend APIs  with Flask / DJango Flask and Database integration with PostgreSQL / SQL Server / MongoDB.</h3>
+<h1 align="left">Hi 👋, I'm Nihar Ranjan Samantaray</h1>
+<h3 align="left">A passionate DevOps Engineer and Backend Developer 🚀 having an experience of Deploying applications in Docker / Kubernetes and building Backend APIs  with Flask / DJango and Database integration with PostgreSQL / SQL Server / MongoDB.</h3>
 
 
-- 🌱 I’m currently learning **System Designing & Algorithmic Optimisations**
+- 🌱 I’m currently learning **Data Science & Algorithmic Optimisations**
 
 - 👨‍💻 You can view my Portfolio at [https://nihar.ml/](https://nihar.ml/)
-
-- 📝 I regularly write algorithmic blogs on [https://theretrotechborder.blogspot.com/](https://theretrotechborder.blogspot.com/)
 
 - ⚡ Fun fact **The vast majority of the world’s currency is digital.**
 
