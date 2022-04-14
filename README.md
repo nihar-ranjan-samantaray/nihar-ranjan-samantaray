@@ -13,7 +13,7 @@
 
 - 💻 Hackerrank Profile [https://www.hackerrank.com/niharsamantaray](https://www.hackerrank.com/niharsamantaray)
 
-- 👨‍💻 Codeforces Profile [https://codeforces.com/profile/Anixane](https://codeforces.com/profile/Anixane)
+- 👨‍💻 Codeforces Profile [https://codeforces.com/profile/nihar-ranjan-samantaray](https://codeforces.com/profile/nihar-ranjan-samantaray)
 
 - 🤖 Codechef Profile [https://www.codechef.com/users/nihar_ranjan](https://www.codechef.com/users/nihar_ranjan)
 
