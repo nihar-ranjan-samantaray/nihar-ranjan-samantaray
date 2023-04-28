@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science & Algorithmic Optimisations**
 
-- 👨‍💻 You can view my Portfolio at [https://nihar.ml/](https://nihar.ml/)
+- 👨‍💻 You can view my Portfolio at [https://nihar-samantaray.web.app](https://nihar-samantaray.web.app))
 
 - ⚡ Fun fact **The vast majority of the world’s currency is digital.**
 
