@@ -72,4 +72,8 @@
 
 > Most modern AI systems are just clever ways of combining data + context + probability 😄
 
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihar-ranjan-samantaray&show_icons=true&theme=tokyonight" />
+</p>
