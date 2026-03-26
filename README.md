@@ -1,25 +1,81 @@
-<h1 align="left">Hi 👋, I'm Nihar Ranjan Samantaray</h1>
-<h3 align="left">A passionate DevOps Engineer and Backend Developer 🚀 having an experience of Deploying applications in Docker / Kubernetes and building Backend APIs  with Flask / DJango and Database integration with PostgreSQL / SQL Server / MongoDB.</h3>
+<h1 align="center">Hi 👋, I'm Nihar Ranjan Samantaray</h1>
 
+<h3 align="center">
+🚀 Data Engineer | GenAI Enthusiast | Building Scalable AI & Data Systems
+</h3>
 
-- 🌱 I’m currently learning **Data Science & Algorithmic Optimisations**
+---
 
-- 👨‍💻 You can view my Portfolio at [https://nihar-samantaray.web.app](https://nihar-samantaray.web.app)
+## 👨‍💻 About Me
 
-- ⚡ Fun fact **The vast majority of the world’s currency is digital.**
+- 💼 Data Engineer at <b>ITC Infotech</b> with 5.8+ years of experience  
+- ☁️ Working on **Azure, Databricks (PySpark), and scalable data pipelines**  
+- 🤖 Currently building **Generative AI applications (LLMs, RAG, Agents)**  
+- 🔍 Strong focus on **real-world AI systems, not just theory**  
+- 📈 Passionate about **performance optimization & system design**
 
+---
 
-<h3 align="left">My Coding Handles:</h3>
+## 🧠 What I’m Currently Working On
 
-- 💻 Hackerrank Profile [https://www.hackerrank.com/niharsamantaray](https://www.hackerrank.com/niharsamantaray)
+- 🔹 Building **RAG pipelines using LangChain + Vector DB**
+- 🔹 Developing **LLM-powered applications (chatbots, Q&A systems)**
+- 🔹 Exploring **Agentic AI (multi-step reasoning + tools)**
+- 🔹 Optimizing **Databricks Spark jobs & Delta Lake pipelines**
 
-- 👨‍💻 Codeforces Profile [https://codeforces.com/profile/nihar-ranjan-samantaray](https://codeforces.com/profile/nihar-ranjan-samantaray)
+---
 
-- 🤖 Codechef Profile [https://www.codechef.com/users/nihar_ranjan](https://www.codechef.com/users/nihar_ranjan)
+## 🛠️ Tech Stack
 
-- 🛰 Leetcode Profile [https://leetcode.com/nihar-ranjan-samantaray/](https://leetcode.com/nihar-ranjan-samantaray/)
+### ☁️ Cloud & Data Engineering
+- Azure (ADF, Databricks, Storage, Functions, Key Vault)
+- AWS (EC2, S3, Lambda, IAM)
+- Delta Lake, ETL Pipelines, Data Warehousing
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazonaws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io/" target="_blank"> <img src="https://vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://aws.amazon.com/eks/" target="_blank"> <img src="https://vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="amazoneks" width="40" height="40"/> </a> <a href="https://linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://djangoproject.com/" target="_blank"> <img src="https://vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://spark.apache.org/" target="_blank"> <img src="https://vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://scala-lang.org/" target="_blank"> <img src="https://vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="40" height="40"/> </a> <a href="https://postgresql.org/" target="_blank"> <img src="https://vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank"> <img src="https://vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### 💻 Languages & Processing
+- Python 🐍 | SQL | PySpark
 
+### 🤖 Generative AI
+- LLM APIs | LangChain | RAG | Vector Databases | Prompt Engineering
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nihar-ranjan-samantaray&hide=issues,contribs&show_icons=true&theme=vue-dark" alt="nihar-ranjan-samantaray" /></p>
+### ⚙️ Backend & Tools
+- Flask | REST APIs  
+- Docker | Git | Azure DevOps | Postman  
+
+---
+
+## 📊 Featured Projects (Coming Soon 🚧)
+
+- 🔹 End-to-End **RAG Pipeline on Azure + Databricks**
+- 🔹 **AI Chatbot with LangChain + Vector DB**
+- 🔹 **Data Pipeline with Delta Lake + Incremental Load**
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nihar-ranjan-samantaray  
+- 💻 GitHub: https://github.com/nihar-ranjan-samantaray  
+- 📧 Email: nihar.ranjan.samantaray@outlook.com  
+
+---
+
+## 🧩 Coding Profiles
+
+- LeetCode: https://leetcode.com/nihar-ranjan-samantaray  
+- HackerRank: https://www.hackerrank.com/niharsamantaray  
+- CodeChef: https://www.codechef.com/users/nihar_ranjan  
+
+---
+
+## ⚡ Fun Fact
+
+> Most modern AI systems are just clever ways of combining data + context + probability 😄
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihar-ranjan-samantaray&show_icons=true&theme=tokyonight" />
+</p>
