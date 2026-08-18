@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 💼 Data Engineer at <b>ITC Infotech</b> with 5.8+ years of experience  
-- ☁️ Working on **Azure, Databricks (PySpark), and scalable data pipelines**  
+- ☁️ Working on **Azure, MLOps, Databricks (PySpark), ADF and scalable data pipelines**  
 - 🤖 Currently building **Generative AI applications (LLMs, RAG, Agents)**  
 - 🔍 Strong focus on **real-world AI systems, not just theory**  
 - 📈 Passionate about **performance optimization & system design**
