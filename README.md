@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihar Ranjan Samantaray</h1>
 
 <h3 align="center">
-🚀 Data Engineer | GenAI Enthusiast | Building Scalable AI & Data Systems
+🚀 Data Engineer | DevOps | GenAI Enthusiast | Building Scalable AI & Data Systems
 </h3>
 
 ---
